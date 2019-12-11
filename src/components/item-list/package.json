@@ -1,0 +1,6 @@
+{
+  "name": "item-list",
+  "private": true,
+  "main": "./index.js",
+  "version": "1.0.0"
+}
